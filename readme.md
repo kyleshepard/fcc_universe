@@ -1,3 +1,3 @@
-freeCodeCamp Relational Database certification deliverable
+freeCodeCamp Universe DB submission for Relational Database Certification
 
-just a Postgres db dump
+[Link to Description](https://www.freecodecamp.org/learn/relational-database/build-a-celestial-bodies-database-project/build-a-celestial-bodies-database)
